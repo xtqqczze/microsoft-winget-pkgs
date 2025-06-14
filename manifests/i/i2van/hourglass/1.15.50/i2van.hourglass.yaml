@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/May/28
+# Created with komac v2.12.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: AgileBits.1Password.Beta
-PackageVersion: 8.10.80.18
+PackageIdentifier: i2van.hourglass
+PackageVersion: 1.15.50
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
